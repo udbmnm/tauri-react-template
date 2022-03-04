@@ -17,8 +17,9 @@ windows
 1- install dependencies  
 ```yarn```  
 
--2 Run the App in development mode:  
-```yarn dev```  
+2- Run the App in development mode:  
+```yarn dev```    
+  
 note that the first run will take time as tauri download and compile dependencies. 
 
 ## Production
