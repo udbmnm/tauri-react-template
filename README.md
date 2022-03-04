@@ -15,10 +15,22 @@ windows
 ## Instructions 
 
 1- install dependencies  
-```yarn```  
+```sh
+#npm
+npm install
+
+#yarn
+yarn
+```  
 
 2- Run the App in development mode:  
-```yarn dev```    
+```sh
+#npm 
+npm run dev
+
+#yarn
+yarn dev
+```    
   
 note that the first run will take time as tauri download and compile dependencies. 
 
@@ -26,7 +38,13 @@ note that the first run will take time as tauri download and compile dependencie
 when you are happy with the results and ready to ship your useless app. 
 
 run:   
-```yarn build```
+```sh
+#npm
+npm run build
+
+#yarn
+yarn build
+```
 
 
 ## NOTE:
