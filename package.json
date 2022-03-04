@@ -1,0 +1,26 @@
+{
+  "name": "react-tauri-vite-template",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "web:dev": "vite",
+    "web:build": "tsc && vite build",
+    "dev": "tauri dev",
+    "build": "tauri build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^1.0.0-rc.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.0.0-rc.5",
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@vitejs/plugin-react": "^1.0.7",
+    "cross-env": "^7.0.3",
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0"
+  }
+}
