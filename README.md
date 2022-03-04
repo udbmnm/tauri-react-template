@@ -5,12 +5,7 @@ Simple template to get started with react vite and tauri, note that it has types
 Because it's fun.
 
 ## Requirements:
-windows
-- Microsoft Visual Studio C++ build tools [here](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
-- Rust compiler and Cargo installed [here](https://www.rust-lang.org/tools/install)
-- Nodejs LTS version installed [here](https://nodejs.org/en/)
-- WebView2 runtime installed [here](https://developer.microsoft.com/en-us/microsoft-edge/webview2/)
-- Yarn ( optional )
+[here](https://tauri.studio/docs/getting-started/prerequisites)
 
 ## Instructions 
 
