@@ -1,5 +1,5 @@
 # React-tauri-vite-template 
-this is a simple template to get started with react vite and tauri, note that it has typescript support also. 
+Simple template to get started with react vite and tauri, note that it has typescript support also, It uses the vite-plugin-tauri, to avoid ghost terminal issue. 
 
 ## why ? 
 Because it's fun.
