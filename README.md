@@ -42,6 +42,6 @@ yarn build
 ```
 
 
-## NOTE:
+## Note:
 tested on:
 - windows 10
